@@ -159,5 +159,9 @@ function startTimer(updateWebview: () => void) {
     }, 1000);
 }
 ```
+## Release Notes
+1.0.0
+-Release Extension
 
+**Enjoy!**
 
